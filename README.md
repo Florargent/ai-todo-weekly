@@ -2,7 +2,7 @@
 
 基于 Vue3 + Vite + Pinia + 火山Deepseek大模型 的智能任务管理系统，支持自然语言输入生成任务、SSE实时响应、自动周报生成。
 
-**在线体验**：https://floraragent.github.io/ai-todo-weekly/
+**在线体验**：https://florargent.github.io/ai-todo-weekly/
 
 ## 技术栈
 - Vue3 + Vite + Pinia + TypeScript
